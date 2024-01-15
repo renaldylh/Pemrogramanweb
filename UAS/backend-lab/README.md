@@ -1,3 +1,7 @@
+### UAS
+RENALDY LUTHFIANA HAKIM
+2141042
+
 1. Buat folder: backend-lab
 2. ke folder backend-lab
 3. ketikan perintah: npm init -y
@@ -15,6 +19,3 @@
 
 
 
-### Tugas
-Buat Tabel Category dan Relasinya 1-to-many dengan Tabel Product
-Test dengan rest client
